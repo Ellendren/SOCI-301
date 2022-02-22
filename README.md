@@ -8,4 +8,4 @@ The course focuses on understanding of the logic of argument in social statistic
 
 ## Desciption: 
 * Repo for my SOCi-301 class
-* We're using SPSS in the class for the labs and projects but I was curious about how I'd do the assignments in aPythone Notebook so I decied to make one just for fun for the assignments in the class. 
+* We're using SPSS in the class for the labs and projects but I was curious about how I'd do the assignments in a Python Notebook so I decied to make one just for fun for the assignments in the class. 
